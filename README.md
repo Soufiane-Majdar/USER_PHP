@@ -14,4 +14,6 @@ How to use Sessions!
 <br>
   <img src="client.png"/>
 <br>
+  <img src="index.png"/>
+  
 </center>
